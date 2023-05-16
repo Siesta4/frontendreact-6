@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.inbox{
+  background-color: green;
+  padding: 10px 15px;
+}
+
+
+.outbox{
+  background-color: rgb(11, 0, 128);
+  padding: 10px 15px;
+}
